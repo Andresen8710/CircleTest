@@ -1,0 +1,410 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Practica_Cursos\\Net\\CleanArquitecture\\PruebaTecnicaCycle\\PruebaTecnicaCycle.Api\\PruebaTecnicaCycle.Api.csproj": {}
+  },
+  "projects": {
+    "D:\\Practica_Cursos\\Net\\CleanArquitecture\\PruebaTecnicaCycle\\PruebaTecnicaCycle.Api\\PruebaTecnicaCycle.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Practica_Cursos\\Net\\CleanArquitecture\\PruebaTecnicaCycle\\PruebaTecnicaCycle.Api\\PruebaTecnicaCycle.Api.csproj",
+        "projectName": "PruebaTecnicaCycle.Api",
+        "projectPath": "D:\\Practica_Cursos\\Net\\CleanArquitecture\\PruebaTecnicaCycle\\PruebaTecnicaCycle.Api\\PruebaTecnicaCycle.Api.csproj",
+        "packagesPath": "C:\\Users\\Andre\\.nuget\\packages\\",
+        "outputPath": "D:\\Practica_Cursos\\Net\\CleanArquitecture\\PruebaTecnicaCycle\\PruebaTecnicaCycle.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Andre\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Practica_Cursos\\Net\\CleanArquitecture\\PruebaTecnicaCycle\\PruebaTecnicaCycle.Application\\PruebaTecnicaCycle.Application.csproj": {
+                "projectPath": "D:\\Practica_Cursos\\Net\\CleanArquitecture\\PruebaTecnicaCycle\\PruebaTecnicaCycle.Application\\PruebaTecnicaCycle.Application.csproj"
+              },
+              "D:\\Practica_Cursos\\Net\\CleanArquitecture\\PruebaTecnicaCycle\\PruebaTecnicaCycle.Identity\\PruebaTecnicaCycle.Identity.csproj": {
+                "projectPath": "D:\\Practica_Cursos\\Net\\CleanArquitecture\\PruebaTecnicaCycle\\PruebaTecnicaCycle.Identity\\PruebaTecnicaCycle.Identity.csproj"
+              },
+              "D:\\Practica_Cursos\\Net\\CleanArquitecture\\PruebaTecnicaCycle\\PruebaTecnicaCycle.Infraestructure\\PruebaTecnicaCycle.Infraestructure.csproj": {
+                "projectPath": "D:\\Practica_Cursos\\Net\\CleanArquitecture\\PruebaTecnicaCycle\\PruebaTecnicaCycle.Infraestructure\\PruebaTecnicaCycle.Infraestructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.27, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Practica_Cursos\\Net\\CleanArquitecture\\PruebaTecnicaCycle\\PruebaTecnicaCycle.Application\\PruebaTecnicaCycle.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Practica_Cursos\\Net\\CleanArquitecture\\PruebaTecnicaCycle\\PruebaTecnicaCycle.Application\\PruebaTecnicaCycle.Application.csproj",
+        "projectName": "PruebaTecnicaCycle.Application",
+        "projectPath": "D:\\Practica_Cursos\\Net\\CleanArquitecture\\PruebaTecnicaCycle\\PruebaTecnicaCycle.Application\\PruebaTecnicaCycle.Application.csproj",
+        "packagesPath": "C:\\Users\\Andre\\.nuget\\packages\\",
+        "outputPath": "D:\\Practica_Cursos\\Net\\CleanArquitecture\\PruebaTecnicaCycle\\PruebaTecnicaCycle.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Andre\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Practica_Cursos\\Net\\CleanArquitecture\\PruebaTecnicaCycle\\PruebaTecnicaCycle.Domain\\PruebaTecnicaCycle.Domain.csproj": {
+                "projectPath": "D:\\Practica_Cursos\\Net\\CleanArquitecture\\PruebaTecnicaCycle\\PruebaTecnicaCycle.Domain\\PruebaTecnicaCycle.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Practica_Cursos\\Net\\CleanArquitecture\\PruebaTecnicaCycle\\PruebaTecnicaCycle.Domain\\PruebaTecnicaCycle.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Practica_Cursos\\Net\\CleanArquitecture\\PruebaTecnicaCycle\\PruebaTecnicaCycle.Domain\\PruebaTecnicaCycle.Domain.csproj",
+        "projectName": "PruebaTecnicaCycle.Domain",
+        "projectPath": "D:\\Practica_Cursos\\Net\\CleanArquitecture\\PruebaTecnicaCycle\\PruebaTecnicaCycle.Domain\\PruebaTecnicaCycle.Domain.csproj",
+        "packagesPath": "C:\\Users\\Andre\\.nuget\\packages\\",
+        "outputPath": "D:\\Practica_Cursos\\Net\\CleanArquitecture\\PruebaTecnicaCycle\\PruebaTecnicaCycle.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Andre\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Practica_Cursos\\Net\\CleanArquitecture\\PruebaTecnicaCycle\\PruebaTecnicaCycle.Identity\\PruebaTecnicaCycle.Identity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Practica_Cursos\\Net\\CleanArquitecture\\PruebaTecnicaCycle\\PruebaTecnicaCycle.Identity\\PruebaTecnicaCycle.Identity.csproj",
+        "projectName": "PruebaTecnicaCycle.Identity",
+        "projectPath": "D:\\Practica_Cursos\\Net\\CleanArquitecture\\PruebaTecnicaCycle\\PruebaTecnicaCycle.Identity\\PruebaTecnicaCycle.Identity.csproj",
+        "packagesPath": "C:\\Users\\Andre\\.nuget\\packages\\",
+        "outputPath": "D:\\Practica_Cursos\\Net\\CleanArquitecture\\PruebaTecnicaCycle\\PruebaTecnicaCycle.Identity\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Andre\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Practica_Cursos\\Net\\CleanArquitecture\\PruebaTecnicaCycle\\PruebaTecnicaCycle.Application\\PruebaTecnicaCycle.Application.csproj": {
+                "projectPath": "D:\\Practica_Cursos\\Net\\CleanArquitecture\\PruebaTecnicaCycle\\PruebaTecnicaCycle.Application\\PruebaTecnicaCycle.Application.csproj"
+              },
+              "D:\\Practica_Cursos\\Net\\CleanArquitecture\\PruebaTecnicaCycle\\PruebaTecnicaCycle.Domain\\PruebaTecnicaCycle.Domain.csproj": {
+                "projectPath": "D:\\Practica_Cursos\\Net\\CleanArquitecture\\PruebaTecnicaCycle\\PruebaTecnicaCycle.Domain\\PruebaTecnicaCycle.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[6.0.28, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.28, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[6.0.28, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.28, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.28, )"
+            },
+            "Microsoft.Extensions.Identity.Core": {
+              "target": "Package",
+              "version": "[6.0.28, )"
+            },
+            "Microsoft.Extensions.Options.ConfigurationExtensions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.35.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Practica_Cursos\\Net\\CleanArquitecture\\PruebaTecnicaCycle\\PruebaTecnicaCycle.Infraestructure\\PruebaTecnicaCycle.Infraestructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Practica_Cursos\\Net\\CleanArquitecture\\PruebaTecnicaCycle\\PruebaTecnicaCycle.Infraestructure\\PruebaTecnicaCycle.Infraestructure.csproj",
+        "projectName": "PruebaTecnicaCycle.Infraestructure",
+        "projectPath": "D:\\Practica_Cursos\\Net\\CleanArquitecture\\PruebaTecnicaCycle\\PruebaTecnicaCycle.Infraestructure\\PruebaTecnicaCycle.Infraestructure.csproj",
+        "packagesPath": "C:\\Users\\Andre\\.nuget\\packages\\",
+        "outputPath": "D:\\Practica_Cursos\\Net\\CleanArquitecture\\PruebaTecnicaCycle\\PruebaTecnicaCycle.Infraestructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Andre\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Practica_Cursos\\Net\\CleanArquitecture\\PruebaTecnicaCycle\\PruebaTecnicaCycle.Application\\PruebaTecnicaCycle.Application.csproj": {
+                "projectPath": "D:\\Practica_Cursos\\Net\\CleanArquitecture\\PruebaTecnicaCycle\\PruebaTecnicaCycle.Application\\PruebaTecnicaCycle.Application.csproj"
+              },
+              "D:\\Practica_Cursos\\Net\\CleanArquitecture\\PruebaTecnicaCycle\\PruebaTecnicaCycle.Domain\\PruebaTecnicaCycle.Domain.csproj": {
+                "projectPath": "D:\\Practica_Cursos\\Net\\CleanArquitecture\\PruebaTecnicaCycle\\PruebaTecnicaCycle.Domain\\PruebaTecnicaCycle.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.1.35, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.27, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.27, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.27, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.27, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

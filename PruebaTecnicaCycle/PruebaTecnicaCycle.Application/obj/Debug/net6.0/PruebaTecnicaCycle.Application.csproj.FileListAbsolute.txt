@@ -1,0 +1,15 @@
+D:\Practica_Cursos\Net\CleanArquitecture\PruebaTecnicaCycle\PruebaTecnicaCycle.Application\bin\Debug\net6.0\PruebaTecnicaCycle.Application.deps.json
+D:\Practica_Cursos\Net\CleanArquitecture\PruebaTecnicaCycle\PruebaTecnicaCycle.Application\bin\Debug\net6.0\PruebaTecnicaCycle.Application.dll
+D:\Practica_Cursos\Net\CleanArquitecture\PruebaTecnicaCycle\PruebaTecnicaCycle.Application\bin\Debug\net6.0\PruebaTecnicaCycle.Application.pdb
+D:\Practica_Cursos\Net\CleanArquitecture\PruebaTecnicaCycle\PruebaTecnicaCycle.Application\bin\Debug\net6.0\PruebaTecnicaCycle.Domain.dll
+D:\Practica_Cursos\Net\CleanArquitecture\PruebaTecnicaCycle\PruebaTecnicaCycle.Application\bin\Debug\net6.0\PruebaTecnicaCycle.Domain.pdb
+D:\Practica_Cursos\Net\CleanArquitecture\PruebaTecnicaCycle\PruebaTecnicaCycle.Application\obj\Debug\net6.0\PruebaTecnicaCycle.Application.csproj.AssemblyReference.cache
+D:\Practica_Cursos\Net\CleanArquitecture\PruebaTecnicaCycle\PruebaTecnicaCycle.Application\obj\Debug\net6.0\PruebaTecnicaCycle.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practica_Cursos\Net\CleanArquitecture\PruebaTecnicaCycle\PruebaTecnicaCycle.Application\obj\Debug\net6.0\PruebaTecnicaCycle.Application.AssemblyInfoInputs.cache
+D:\Practica_Cursos\Net\CleanArquitecture\PruebaTecnicaCycle\PruebaTecnicaCycle.Application\obj\Debug\net6.0\PruebaTecnicaCycle.Application.AssemblyInfo.cs
+D:\Practica_Cursos\Net\CleanArquitecture\PruebaTecnicaCycle\PruebaTecnicaCycle.Application\obj\Debug\net6.0\PruebaTecnicaCycle.Application.csproj.CoreCompileInputs.cache
+D:\Practica_Cursos\Net\CleanArquitecture\PruebaTecnicaCycle\PruebaTecnicaCycle.Application\obj\Debug\net6.0\PruebaTecnicaCycle.Application.csproj.CopyComplete
+D:\Practica_Cursos\Net\CleanArquitecture\PruebaTecnicaCycle\PruebaTecnicaCycle.Application\obj\Debug\net6.0\PruebaTecnicaCycle.Application.dll
+D:\Practica_Cursos\Net\CleanArquitecture\PruebaTecnicaCycle\PruebaTecnicaCycle.Application\obj\Debug\net6.0\refint\PruebaTecnicaCycle.Application.dll
+D:\Practica_Cursos\Net\CleanArquitecture\PruebaTecnicaCycle\PruebaTecnicaCycle.Application\obj\Debug\net6.0\PruebaTecnicaCycle.Application.pdb
+D:\Practica_Cursos\Net\CleanArquitecture\PruebaTecnicaCycle\PruebaTecnicaCycle.Application\obj\Debug\net6.0\ref\PruebaTecnicaCycle.Application.dll

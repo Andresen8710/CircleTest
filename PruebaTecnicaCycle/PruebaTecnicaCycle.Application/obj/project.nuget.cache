@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "pN8tzpRq6jFbYCqfiRLTuHBUXvenILh1fHgDjYqew59cU4Ncp+FfOzKg8iEqL9IZJr/xFeMcIg9ti0KWrk4r0Q==",
+  "success": true,
+  "projectFilePath": "D:\\Practica_Cursos\\Net\\CleanArquitecture\\PruebaTecnicaCycle\\PruebaTecnicaCycle.Application\\PruebaTecnicaCycle.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Andre\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

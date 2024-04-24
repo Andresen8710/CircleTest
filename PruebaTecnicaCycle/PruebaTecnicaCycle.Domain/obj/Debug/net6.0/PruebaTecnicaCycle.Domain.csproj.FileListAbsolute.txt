@@ -1,0 +1,11 @@
+D:\Practica_Cursos\Net\CleanArquitecture\PruebaTecnicaCycle\PruebaTecnicaCycle.Domain\bin\Debug\net6.0\PruebaTecnicaCycle.Domain.deps.json
+D:\Practica_Cursos\Net\CleanArquitecture\PruebaTecnicaCycle\PruebaTecnicaCycle.Domain\bin\Debug\net6.0\PruebaTecnicaCycle.Domain.dll
+D:\Practica_Cursos\Net\CleanArquitecture\PruebaTecnicaCycle\PruebaTecnicaCycle.Domain\bin\Debug\net6.0\PruebaTecnicaCycle.Domain.pdb
+D:\Practica_Cursos\Net\CleanArquitecture\PruebaTecnicaCycle\PruebaTecnicaCycle.Domain\obj\Debug\net6.0\PruebaTecnicaCycle.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practica_Cursos\Net\CleanArquitecture\PruebaTecnicaCycle\PruebaTecnicaCycle.Domain\obj\Debug\net6.0\PruebaTecnicaCycle.Domain.AssemblyInfoInputs.cache
+D:\Practica_Cursos\Net\CleanArquitecture\PruebaTecnicaCycle\PruebaTecnicaCycle.Domain\obj\Debug\net6.0\PruebaTecnicaCycle.Domain.AssemblyInfo.cs
+D:\Practica_Cursos\Net\CleanArquitecture\PruebaTecnicaCycle\PruebaTecnicaCycle.Domain\obj\Debug\net6.0\PruebaTecnicaCycle.Domain.csproj.CoreCompileInputs.cache
+D:\Practica_Cursos\Net\CleanArquitecture\PruebaTecnicaCycle\PruebaTecnicaCycle.Domain\obj\Debug\net6.0\PruebaTecnicaCycle.Domain.dll
+D:\Practica_Cursos\Net\CleanArquitecture\PruebaTecnicaCycle\PruebaTecnicaCycle.Domain\obj\Debug\net6.0\refint\PruebaTecnicaCycle.Domain.dll
+D:\Practica_Cursos\Net\CleanArquitecture\PruebaTecnicaCycle\PruebaTecnicaCycle.Domain\obj\Debug\net6.0\PruebaTecnicaCycle.Domain.pdb
+D:\Practica_Cursos\Net\CleanArquitecture\PruebaTecnicaCycle\PruebaTecnicaCycle.Domain\obj\Debug\net6.0\ref\PruebaTecnicaCycle.Domain.dll
